@@ -1,0 +1,1 @@
+Creating a responsive website from figma design https://www.figma.com/file/5QR0T9a8ZYBlOShN55uW63/Responsive-Design-Art-News-Landing-Page-(Community)?type=design&node-id=0-1&mode=design&t=gMyZpcyrnvbxXreU-0
